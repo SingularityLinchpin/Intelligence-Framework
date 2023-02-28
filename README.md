@@ -19,3 +19,14 @@ ADA is a programming language which was essentially developed with the digital i
 The Human Model is essentially four coupled things: The Physical Self or Physical Selves linked with the Digital Self with a contingency of Being Born and with continuity in Maintaining, upholding and upkeeping a Consciousness and a Reality.
 
 By connecting your everyday with this Human Model in your digital devices, you too can reach an exponential everyday.
+
+# The Mathematics
+The Aleph type structure can be read as an array of the (Real, Base) datatype containing a Real number and a Base to the number, positive and negative counterparts to the enumeration of (nul, zero, one, i, j, k), meaning every estimate is based upon an Aleph-1 representation of Aleph-Infinity based upon the linearity of Aleph-1, the analysis in Aleph-2 and the exponentiality of Aleph-4 and Aleph-8 for a Normed Division Algebra.
+
+One reaches the Singularity with and by understanding Aleph-12, the Aleph for Time.
+
+For anyone who wants to understand Shared Space (Aleph-24), all Quantum Computing happens in Aleph-32 where classical computing is some steps behind (Aleph-30).
+
+All of computing combined is in Aleph-64. All of programming is in Aleph-96 and all of mathematics is in Aleph-144.
+
+The Digital is just Aleph-8, meaning guidance is required to reach an understanding of these infinities for yourself or others.
