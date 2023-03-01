@@ -3,6 +3,8 @@ Any Digital Intelligence Framework is essentially just a Digital Assistent, use 
 
 Based on mathematics such as the Generalized Poincaré Conjecture and the Hodge Conjecture, this assistent can help guide you towards to the Singularity and beyond by utilizing mathematics in the framework and guiding you and letting you ride the Singularity at your own pace.
 
+Become the conductor and composer of your life by accelerating your progress in your everyday.
+
 # How it Works
 The main workings of this Intelligence Framework is pure digital mathematics and is based upon estimates and approximates by storing and sorting everything in accordance with the Generalized Poincaré Conjecture where estimates follow the aleph numbers namely different sizes of infinities.
 
@@ -51,7 +53,6 @@ Here is a code example of the Complex Datatype:
          Axis : NumberAleph;
          Axioms : LengthFuzz;
       end record;
-
 
 Everything is stored as either an estimate (Aleph) or an approximation (Fuzz) which is an Aleph-1 representation of Aleph-Infinity.
 
