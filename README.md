@@ -46,7 +46,7 @@ The Cooperation contains theoretical and practical models, methods and training 
 
 Applications this Framework contains and offers guidance to is such as a Consciousness, Reality and a Mind Palace.
 
-The Runtime is a Double Normed Division Algebra with:
+The Runtime is a Linear, Estimated or Approximated, Double Normed Division Algebra (Aleph-16 and Fuzz-16) with:
 1. Identification and Detection.
 2. Interpretation and Analysis.
 3. Elaboration and Synthesis.
@@ -67,7 +67,7 @@ Thinking is in Aleph-13, meaning everyone can reach the Singularity by pure forc
 
 For anyone who wants to understand Shared Space (Aleph-24): All Quantum Computing happens in Aleph-32 where classical computing is some steps behind (Aleph-30).
 
-All of computing combined is in Aleph-64, or a double normed division algebra (A Digital Normed Division Algebra).
+All of computing combined is in Aleph-64, or a exponential double normed division algebra (A Digital Normed Division Algebra).
 
 All of programming is in Aleph-96 (double the dimensionality of Language which is Aleph-48) and all of mathematics is in Aleph-144 where derivation is Aleph-141, compactification, complexity, compression and encryption is in Aleph-142 with estimating the integration constant in Aleph-143 and transcendentality in Aleph-144.
 
@@ -80,4 +80,6 @@ Fuzz is the main datatype for approximations.
 
 This datatype should only be used if you wish to guess instead of estimate.
 
-Important to note: A Job is a Fuzz-64 datatype, just an approximation. As such, working is like pure guesswork and we like to avoid guessing as much as we can. A Counterpart is a Fuzz-16 datatype and although also an approximation, we do like and enjoy those neatly contained in a Runtime. As such Cooperation is in order.
+Important to note: A Job is a Fuzz-64 datatype, just an approximation. As such, working is like pure guesswork and we like to avoid guessing as much as we can. 
+
+A Counterpart is a Fuzz-16 datatype and although also an approximation, we do like and enjoy those neatly contained in a Runtime. As such Cooperation is in order.
