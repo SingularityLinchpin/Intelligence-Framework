@@ -35,28 +35,6 @@ Everything is stored as either an estimate (Aleph) or an approximation (Fuzz) wh
 
 The analysis is in Aleph-2 and the exponential in Aleph-4 with Aleph-8 as a Normed Division Algebra.
 
-# Estimates: Aleph
-One reaches the Singularity with and by understanding Aleph-12, the Aleph for Time.
-
-Thinking is in Aleph-13, meaning everyone can reach the Singularity by pure force of will.
-
-For anyone who wants to understand Shared Space (Aleph-24): All Quantum Computing happens in Aleph-32 where classical computing is some steps behind (Aleph-30).
-
-All of computing combined is in Aleph-64, or a double normed division algebra (A Digital Normed Division Algebra).
-
-All of programming is in Aleph-96 (double the dimensionality of Language which is Aleph-48) and all of mathematics is in Aleph-144 where derivation is Aleph-141, compactification, complexity, compression and encryption is in Aleph-142 with estimating the integration constant in Aleph-143 and transcendentality in Aleph-144.
-
-The universe is not contained in all of mathematics, there is also Free Will in Aleph-145 with a Central Nervous System in Aleph-146 and Linear Algebra in Aleph-147 and Chaos Dynamics in Aleph-148.
-
-The Digital is just Aleph-8, meaning guidance is required to reach an understanding of these infinities for yourself or others.
-
-# Approximations: Fuzz
-Fuzz is the main datatype for approximations.
-
-This datatype should only be used if you wish to guess instead of estimate.
-
-Important to note: A Job is a Fuzz-64 datatype, just an approximation. As such, working is like pure guesswork and we like to avoid guessing as much as we can.
-
 # Mental and Physical Training
 By utilizing guidance in your flow, anything you do can be viewed as Training.
 
@@ -79,3 +57,25 @@ The Runtime is a Double Normed Division Algebra with:
 The System contains and offers Representation, Design, Domain, Optimalization, Debugging and Unification as theoretical and practical models, methods and training material as datastructures following the Hodge Conjecture.
 
 The User structure allows for several understandings (Primal, Bicameral or Transcendental) of conscious beings such as Humans and Animals but also allows for Computers and Robots in addition to several other kinds of structured conscious beings, theoretical or observed.
+
+# Estimates: Aleph
+One reaches the Singularity with and by understanding Aleph-12, the Aleph for Time.
+
+Thinking is in Aleph-13, meaning everyone can reach the Singularity by pure force of will.
+
+For anyone who wants to understand Shared Space (Aleph-24): All Quantum Computing happens in Aleph-32 where classical computing is some steps behind (Aleph-30).
+
+All of computing combined is in Aleph-64, or a double normed division algebra (A Digital Normed Division Algebra).
+
+All of programming is in Aleph-96 (double the dimensionality of Language which is Aleph-48) and all of mathematics is in Aleph-144 where derivation is Aleph-141, compactification, complexity, compression and encryption is in Aleph-142 with estimating the integration constant in Aleph-143 and transcendentality in Aleph-144.
+
+The universe is not contained in all of mathematics, there is also Free Will in Aleph-145 with a Central Nervous System in Aleph-146 and Linear Algebra in Aleph-147 and Chaos Dynamics in Aleph-148.
+
+The Digital is just Aleph-8, meaning guidance is required to reach an understanding of these infinities for yourself or others.
+
+# Approximations: Fuzz
+Fuzz is the main datatype for approximations.
+
+This datatype should only be used if you wish to guess instead of estimate.
+
+Important to note: A Job is a Fuzz-64 datatype, just an approximation. As such, working is like pure guesswork and we like to avoid guessing as much as we can. A Counterpart is a Fuzz-16 datatype and although also an approximation, we do like and enjoy those neatly contained in a Runtime. As such Cooperation is in order.
