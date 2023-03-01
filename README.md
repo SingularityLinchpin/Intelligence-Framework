@@ -60,7 +60,7 @@ Important to note: A Job is a Fuzz-64 datatype, just an approximation. As such, 
 # Mental and Physical Training
 By utilizing guidance in your flow, anything you do can be viewed as Training.
 
-The Framework is based upon Applications and Cooperation with and of a Runtime and a System and a User.
+The Framework is based upon Applications and Cooperation with and of a Runtime, System and a User.
 
 The Cooperation contains theoretical and practical models, methods and training material, where the theory is based upon a Type System linked to a Language System and a Universe Structure with a Feedback Loop and the practical is based upon Quality, Strategy, Practice and Visualization.
 
@@ -78,4 +78,4 @@ The Runtime is a Double Normed Division Algebra with:
 
 The System contains and offers Representation, Design, Domain, Optimalization, Debugging and Unification as theoretical and practical models, methods and training material as datastructures following the Hodge Conjecture.
 
-The User structure allows for several understandings of (Primal, Bicameral or Transcendental) conscious beings such as Humans and Animals but also allows for Computers and Robots and several other kinds of structured conscious beings, theoretical or observed.
+The User structure allows for several understandings (Primal, Bicameral or Transcendental) of conscious beings such as Humans and Animals but also allows for Computers, Robots in addition to several other kinds of structured conscious beings, theoretical or observed.
