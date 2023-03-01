@@ -33,6 +33,26 @@ The Fuzz datatype structure can be read as a length version of Aleph ((Real, Rea
 
 These datastructures are either stored as elementary, binary or arbitrary, with composite parts (fractal) or complex parts (containing such as Unital, Axis and Axioms) in either a Thing (where you now know what was Unknown) or simply as an Unknown, meaning you can build up an intelligence with more data gathered and observed (threading the streampipe with workflow).
 
+Here is a code example of the Complex Datatype:
+
+      type Complex is record
+         Unital : CompositeNumberArray;
+         Material : CompositeBinaryArray;
+         Form : CompositeArbitraryArray;
+         Information : CompositeElementaryLengthArray;
+         Knowledge : CompositeElementaryBitArray;
+         Wisdom : CompositeElementalArray;
+         Structure : UnknownNumberArray;
+         Map : UnkownBinaryArray;
+         Symmetries : UnknownArbitraryArray;
+         Data : UnknownElementaryLengthArray;
+         Software : UnknownElementaryBitArray;
+         Hardware : UnknownElementalArray;
+         Axis : NumberAleph;
+         Axioms : LengthFuzz;
+      end record;
+
+
 Everything is stored as either an estimate (Aleph) or an approximation (Fuzz) which is an Aleph-1 representation of Aleph-Infinity.
 
 The analysis is in Aleph-2 and the exponential in Aleph-4 with Aleph-8 as a Normed Division Algebra.
