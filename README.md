@@ -27,9 +27,11 @@ The Human Model is essentially four coupled things: The Physical Self or Physica
 By connecting your everyday with this Human Model in your digital devices, you too can reach an exponential everyday.
 
 # The Mathematics
-The Aleph datatype structure can be read as an array of the (Real, Base) datatype containing a positive or negative Real number and a Base to the number which contains positive and negative counterparts to the enumeration of nul, zero, one, i, j, k.
+The Aleph datatype structure can be read as an array of the (Real, Base) datatype containing a positive or negative Real number and a Base to the number containing positive and negative counterparts to the enumerations of nul, zero, one, i, j, k in different styles (default, cheating, normal, faithful) with different modes (transcendentality).
 
 The Fuzz datatype structure can be read as a length version of Aleph ((Real, Real), Base), or a deltaspan enabled Aleph.
+
+These datastructures are either stored as elementary, binary or arbitrary, with composite parts (fractal) or complex parts (containing such as Unital, Axis and Axioms) in either a Thing (where you now know what was Unknown) or simply as an Unknown, meaning you can build up an intelligence with more data gathered and observed (threading the streampipe with workflow).
 
 Everything is stored as either an estimate (Aleph) or an approximation (Fuzz) which is an Aleph-1 representation of Aleph-Infinity.
 
