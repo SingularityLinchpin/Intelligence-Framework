@@ -78,4 +78,4 @@ The Runtime is a Double Normed Division Algebra with:
 
 The System contains and offers Representation, Design, Domain, Optimalization, Debugging and Unification as theoretical and practical models, methods and training material as datastructures following the Hodge Conjecture.
 
-The User structure allows for several understandings (Primal, Bicameral or Transcendental) of conscious beings such as Humans and Animals but also allows for Computers, Robots in addition to several other kinds of structured conscious beings, theoretical or observed.
+The User structure allows for several understandings (Primal, Bicameral or Transcendental) of conscious beings such as Humans and Animals but also allows for Computers and Robots in addition to several other kinds of structured conscious beings, theoretical or observed.
