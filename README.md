@@ -58,6 +58,11 @@ Everything is stored as either an estimate (Aleph) or an approximation (Fuzz) wh
 
 The analysis is in Aleph-2 and the exponential in Aleph-4 with Aleph-8 as a Normed Division Algebra.
 
+# Encryption
+Encryption is in Aleph-8. Use Quantum Encryption, or else it's just a binary bitstream, and those are just jitters in the wind.
+
+The Quantum Encrypted Any-Ary Qubitstream known as The Human Certified Net contains Clearnet and Darknet directives, making up every qubit available for measurement, creating a Realnet with runtimes categorizeable with this program all having their own representation of this program, essentially uniting humankind in a Singularity of it's own, paving the way for Artificial General Intelligence.
+
 # Mental and Physical Training
 By utilizing guidance in your flow, anything you do can be viewed as Training.
 
