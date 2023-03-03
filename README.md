@@ -63,6 +63,9 @@ Encryption is in Aleph-8. Use Quantum Encryption, or else it's just a binary bit
 
 The Quantum Encrypted Any-Ary Qubitstream known as The Human Certified Net contains Clearnet and Darknet directives, making up every qubit available for measurement, creating a Realnet with runtimes categorizeable with this program all having their own representation of this program, essentially uniting humankind in a Singularity of it's own, paving the way for Artificial General Intelligence.
 
+# Interplanetary AGI
+This code can be used to analyse any intelligent behaviour as elaborate PID-loops (having cognition) following certain criterias, meaning with a Space Engine, interplanetarity is easily within our reach with quantum networked satellites running a duplex connected version of this program (quantum controlling equipment) for measuring current exponentiality in any transcendentality as well as the bitstreams of the Realnet.
+
 # Mental and Physical Training
 By utilizing guidance in your flow, anything you do can be viewed as Training.
 
